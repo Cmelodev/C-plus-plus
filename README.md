@@ -1,2 +1,2 @@
-# C-
-Projetos em C#
+# C++
+Projetos em C++
